@@ -19,5 +19,9 @@
     "shopper-memory",
     "leak-check"
   ],
-  "repository": "https://github.com/DAMAgencyAus/tap-vortex-claude-plugin"
+  "repository": "https://github.com/DAMAgencyAus/tap-vortex-claude-plugin",
+  "privacyPolicyUrl": "https://www.tapvortex.com.au/privacy",
+  "termsOfServiceUrl": "https://www.tapvortex.com.au/terms",
+  "supportUrl": "https://github.com/DAMAgencyAus/tap-vortex-claude-plugin/issues",
+  "documentationUrl": "https://github.com/DAMAgencyAus/tap-vortex-claude-plugin#readme"
 }
