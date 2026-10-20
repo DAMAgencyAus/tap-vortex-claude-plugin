@@ -1,0 +1,22 @@
+{
+  "name": "tap-vortex",
+  "displayName": "Tap Vortex",
+  "version": "0.1.0",
+  "description": "Find where an online store loses sales and design its vortex: the whole buying journey rebuilt around each shopper, with one memory across every step. Run a plain-English Leak Check on any store, map a vortex from ad to checkout to the next visit, plan what the store should remember about each shopper, and turn ads into landing points that keep their promise.",
+  "author": {
+    "name": "Tap Vortex",
+    "url": "https://www.tapvortex.com.au"
+  },
+  "homepage": "https://www.tapvortex.com.au",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "conversion",
+    "customer-journey",
+    "klaviyo",
+    "ab-testing",
+    "shopper-memory",
+    "leak-check"
+  ]
+}
