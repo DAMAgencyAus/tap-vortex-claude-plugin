@@ -18,5 +18,6 @@
     "ab-testing",
     "shopper-memory",
     "leak-check"
-  ]
+  ],
+  "repository": "https://github.com/DAMAgencyAus/tap-vortex-claude-plugin"
 }
